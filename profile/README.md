@@ -19,4 +19,4 @@ Onix contém a capacidade de lidar com várias requisições ao mesmo tempo. sab
 
 ## Aplicações de Micro Serviços
 
-- [ ] Plataforma web. (Vite.js)
+- [ ] Plataforma web. (Angular)
