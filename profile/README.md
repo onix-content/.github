@@ -19,4 +19,5 @@ Onix contém a capacidade de lidar com várias requisições ao mesmo tempo. sab
 
 ## Aplicações de Micro Serviços
 
-- [ ] Plataforma web. (Angular)
+- [ ] Plataforma web.
+- [ ] Aplicativo Desktop Simulações.
