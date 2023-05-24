@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/alansilvacode">
+  <a href="#">
     <img src="./images/asa.png" height="180">
   </a>
 </p>
@@ -11,7 +11,7 @@ Bem Vindo ao Guia de contribuição do projeto **Nome do Projeto**, sem perder t
 <br />
 
 ## Documentação do Projeto
-Para conhecer a documentação do projeto é preciso acessar o [website](https://github.com/alansilvacode).
+Para conhecer a documentação do projeto é preciso acessar o [website](https://github.com/akicodeoficial).
 
 <br />
 
