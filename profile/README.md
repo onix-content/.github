@@ -21,3 +21,16 @@ Onix contém a capacidade de lidar com várias requisições ao mesmo tempo. sab
 
 - [ ] Plataforma web.
 - [ ] Aplicativo Desktop Simulações.
+- [ ] Plataforma Web Modelo de Interface.
+- [ ] Aplicativo Móvel.
+- [ ] API Gerenciamento de Aeronaves.
+- [ ] API Gerenciamento de Aeroportos.
+- [ ] API Gerenciamento de Serviços.
+- [ ] API Gerenciamento de Operações.
+- [ ] API Gerenciamento de Contratos.
+- [ ] Api Envio de Emails.
+- [ ] Api Geração de Relatórios.
+- [ ] Api Cálculos de Tarifários.
+- [ ] Plataforma Administrativa.
+- [ ] Documentação para Usuários.
+- [ ] Documentação Para Desenvolvedores.
