@@ -19,18 +19,34 @@ Onix contém a capacidade de lidar com várias requisições ao mesmo tempo. sab
 
 ## Aplicações de Micro Serviços
 
+- [ ] Cli.
+- [ ] Api Gateway.
 - [ ] Plataforma web.
 - [ ] Aplicativo Desktop Simulações.
 - [ ] Plataforma Web Modelo de Interface.
 - [ ] Aplicativo Móvel.
-- [ ] API Gerenciamento de Aeronaves.
-- [ ] API Gerenciamento de Aeroportos.
-- [ ] API Gerenciamento de Serviços.
-- [ ] API Gerenciamento de Operações.
-- [ ] API Gerenciamento de Contratos.
-- [ ] Api Envio de Emails.
-- [ ] Api Geração de Relatórios.
-- [ ] Api Cálculos de Tarifários.
-- [ ] Plataforma Administrativa.
-- [ ] Documentação para Usuários.
-- [ ] Documentação Para Desenvolvedores.
+- [ ] Blog.
+- [ ] Api Rest.
+- [ ] Algoritmo.
+- [ ] Changelog.
+- [ ] Documentação de Usuários.
+- [ ] Docuemntação para Equipe.
+- [ ] Api Publica de Aeronaves.
+- [ ] Api Serviço envio de emails.
+- [ ] Api Serviço de Calculos de Tarifas e Descontos.
+- [ ] Api Aeronaves.
+- [X] Api Aeroportos.
+- [ ] Api Hangares.
+- [ ] Api Operações.
+- [ ] Api Consumo de Serviços.
+- [ ] Api Controle de Acesso.
+- [ ] Api Serviços do Aeroporto.
+- [ ] Api Descontos.
+- [ ] Api Clientes.
+- [ ] Api Serviço de Chat em tempo real.
+- [ ] Api Estacionamento de Aeronaves.
+- [ ] Api Voos de Aeronaves.
+- [ ] Api Abastecimento de Aeronaves.
+- [ ] Api Serviço de Notificações.
+- [ ] Api Gráfico de Uso.
+- [ ] Api Tarifas do Aeroporto.
